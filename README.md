@@ -1,29 +1,16 @@
-# Chirpy Starter
+# MagPag — Personal Blog
+Welcome! This is my personal corner of the web — here I share posts about student life, experiences from living abroad, technical notes, and photographs. :)
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+[![Content license](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-blue)](/LICENSE-CONTENT.md)
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
-
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Author: Magdalena Skubisz
+## Site: https://mag-skubisz.github.io
+## Technologies
+Jekyll (with the Chirpy theme)
+HTML & CSS
+JavaScript
 
 ## Usage
 
@@ -36,6 +23,12 @@ This repository is automatically updated with new releases from the theme reposi
 ## License
 
 This work is published under [MIT][mit] License.
+
+[//]: # (Content license)
+
+## Content license
+
+Original blog posts and photographs in this repository are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). See `LICENSE-CONTENT.md` for details.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/

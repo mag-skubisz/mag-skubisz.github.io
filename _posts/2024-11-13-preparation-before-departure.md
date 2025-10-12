@@ -1,6 +1,7 @@
 ---
 title: Preparation before departure
 author: Magdalena Skubisz
+license: "CC-BY-NC-ND-4.0"
 date: 2024-11-13 12:00:00 +100
 categories: [Studies, Campus France]
 tags: [study abroad, campus france, France, travel]
