@@ -1,5 +1,5 @@
 ---
-title: University callendar
+title: University calendar
 author: Magdalena Skubisz
 license: "CC-BY-NC-ND-4.0"
 date: 2025-08-14 12:00:00 +100
