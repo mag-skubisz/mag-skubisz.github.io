@@ -4,17 +4,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi! I’m Magda, a **Computer Science and Applied Mathematics** student currently studying at [**Université Grenoble Alpes**](https://www.univ-grenoble-alpes.fr/english/home-628540.kjsp) in France.
-I’m also a [**Campus France Polska Ambassador**](https://www.pologne.campusfrance.org/pl), [**STAR UGA Ambassador**](https://international.univ-grenoble-alpes.fr/internationalisation/dispositifs-d-integration/etudiants-internationaux-a-l-uga-devenez-ambassadeur-star--1065970.kjsp) for the 2025/26 academic year, and a member of the [**IntEGRE**](https://www.instagram.com/association.integre/) organization, where I share my experience, connect with international students, and support those taking their first steps in studying abroad.
+Hi, I’m Magda — a CS student from Poland currently studying in France.
+My blog is all about my experience studying abroad, how the French education system works, and what everyday life in Grenoble looks like. Overall, it’s a collection of insights and opportunities that come with studying here. I’m sharing all of this because I personally wished I could have found something like this back when I randomly decided one day, to study abroad.
 
-On this website, I write about **studying in France**, the French education system, and my personal experience as a Polish student living in Grenoble. My goal is to make my posts international and relatable — to give insights into French student life, culture, and education for anyone thinking about studying or moving abroad.
+So yeah — I hope it helps someone out there. :)
 
-Beyond academics, I’m passionate about **sports and the outdoors**. After many years of playing handball, I now spend most of my free time hiking and climbing in the Alps around Grenoble.
+In the **Archives** section, you can find a full chronological list of my posts.
+In **Categories**, you can look for specific topics that interest you. One of the folders is **Campus France** — these are short posts I write for [Campus France Polska](https://www.pologne.campusfrance.org/pl), for their Instagram, mainly aimed at Polish students.
+You can also explore posts through **tags**.
 
-Another big part of my life is **language learning**. I speak three languages and have always been fascinated by how languages reflect different ways of seeing the world. I love exploring these cultural and linguistic contrasts — they’re a constant reminder of how beautifully diverse our world is.
+Have fun reading! And if you have more technical questions about applying to universities in France, you can contact the Campus France office in your country — they’re very helpful when it comes to detailed, administrative topics, and the application process can change slightly every year.
 
-Through this blog, I also share honest reflections about **living abroad** and finding balance between studying and personal growth. I know how confusing it can feel to move abroad, start university in another language, and wonder if you made the right decision — I’ve been through that.
+If you have more casual questions about student life in France or in Grenoble, feel free to reach out to me on Instagram.
+Enjoy!
 
-My mission is to **encourage you to try new things**, even when you’re unsure — because these are the moments that help us grow, open our minds, and build our confidence.
-
-✨ Wherever you are in your journey — whether you’re preparing to study abroad, learning a new language, starting or planning a new adventure, or simply figuring out who you want to become — I hope my blog will inspire you to take that next step with courage and curiosity. ✨
+{% include campus-france-footer.html %}
