@@ -1,4 +1,4 @@
-# MagPag — Personal Blog
+# MagPage — Personal Blog
 Welcome! This is my personal corner of the web — here I share posts about student life, experiences from living abroad, technical notes, and photographs. :)
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
