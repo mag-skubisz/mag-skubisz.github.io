@@ -1,5 +1,6 @@
+
 ---
-title: How to Choose Where to Study in France: Picking the Right City and University
+title: How to Choose Where to Study in France - Picking the Right City and University
 author: Magdalena Skubisz
 license: "CC-BY-NC-ND-4.0"
 date: 2026-01-14 12:00:00 +100
