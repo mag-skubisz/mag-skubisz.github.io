@@ -1,4 +1,3 @@
-
 ---
 title: How to Choose Where to Study in France, Picking the Right City and University
 author: Magdalena Skubisz
