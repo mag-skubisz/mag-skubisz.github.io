@@ -9,9 +9,9 @@ tags: [study abroad, France, work]
 
 If you’re an international student studying in France or planning to move here for your studies - it’s good to know your work options. Especially if you’ll need to support yourself fully or partially while studying. Here’s a guide to legal rules and different job opportunities for students in France.
 
-## Legal Rules
+# Legal Rules
 
-### Working Hours
+## Working Hours
 
 Both French and international students can work **up to 964 hours per year**. That’s roughly **20 hours per week**, which is about 60% of a full-time job.
 
@@ -20,19 +20,19 @@ Both French and international students can work **up to 964 hours per year**. Th
 
 Exceeding the 964-hour limit may require a **change of status** from student (étudiant) to employee (salarié), so be sure to keep track of your working hours.
 
-### Minimum Wage
+## Minimum Wage
 
 France has a legal minimum wage known as the **SMIC (Salaire Minimum Interprofessionnel de Croissance)**, which applies to all workers, including students. In 2025, the SMIC is set at **€11.88** gross per hour, which corresponds to approximately **€9** net per hour after social contributions. This amount represents the legal minimum, meaning that some jobs may offer higher hourly wages depending on the sector and the employer.
 
-### Employment Contracts
+## Employment Contracts
 
 Student jobs in France must be covered by a work contract. The most common types include **CDD** (fixed-term contract), **CDI** (permanent contract), and **contrat étudiant**, which is specifically designed for students and usually offers flexible working hours. In some cases, students may also work under temporary agency contracts (intérim) or apprenticeship-style agreements, depending on their status and field of study.
 
 Working without a formal employment contract is illegal in France. This applies to regular jobs (not freelance work) and means you are not protected by labor laws, do not have social security coverage, and are not insured in case of workplace accidents.
 
-## Job Options for Students
+# Job Options for Students
 
-### Casual Jobs in France
+## Casual Jobs in France
 
 Some of the most common student jobs include:
 
@@ -43,7 +43,7 @@ Some of the most common student jobs include:
 * **Events:** security, audience support
 * **Babysitting**
 
-### On-Campus Jobs
+## On-Campus Jobs
 
 If you prefer staying on campus, you can work in:
 
@@ -56,7 +56,7 @@ If you prefer staying on campus, you can work in:
 
 Jobs in this category usually offer a flexible or low-intensity schedule, for example around 4 hours per week. You can often find information about these job opportunities on your university’s website or through emails sent to your student email address.
 
-### Seasonal Jobs
+## Seasonal Jobs
 
 These jobs are especially popular among students looking to earn extra income during university breaks:
 
@@ -65,7 +65,7 @@ These jobs are especially popular among students looking to earn extra income du
 
 Pay varies depending on the type of job, and many positions also provide accommodation and meals.
 
-### Online & Freelance Work
+## Online & Freelance Work
 
 For more flexibility, students can explore **freelancing opportunities** in areas such as:
 
@@ -92,8 +92,7 @@ On Superprof, you can also create listings for other subjects, such as **math, m
 > Keep in mind that while freelance work does not always require a formal contract, once your earnings exceed a certain threshold, you must **register as an auto-entrepreneur** in France. Alternatively, if you’re working across countries, make sure to **check the tax regulations between France and your home country** to determine where you should pay taxes and register legally if needed.
 {:.prompt-warning}
 
-
-### Internships & Alternance
+## Internships & Alternance
 
 **Stage (Internship):**
 
@@ -105,7 +104,7 @@ Alternance combines studying and working, allowing students to split their time 
 
 Both internships and alternance are considered serious career-building opportunities in France, often carrying **more weight on a CV than purely part-time jobs**, and they can significantly improve your employability after graduation.
 
-## Summary
+# Summary
 
 Studying in France offers **many legal ways to earn money**, even if your French isn’t perfect—although knowing the language definitely helps. To find a job that suits you, it’s important to **balance your work with your studies** so that earning money doesn’t interfere with your academic progress.
 

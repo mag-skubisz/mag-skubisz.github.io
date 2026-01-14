@@ -24,7 +24,7 @@ One of the most important things to consider is whether you can realistically af
 * Hidden costs you might not think about, like a deposit for your apartment or buying home essentials (plates, kitchenware, etc.)
 * Additional necessities, like laundry if your apartment doesn’t have a washing machine – check nearby laundromats and their prices
 
-It’s best to make an average monthly budget and compare which cities are realistically affordable for you, based on your income and/or support from family. If you’re interested in finding a part-time job, check my post: [Working as an International Student in France](https://mag-skubisz.github.io/posts/working-as-an-international-student-in-france/) Just make sure to maintain a balance between work and study. Sometimes it might even be better to choose a smaller city so you have more time for studying and a little less work.
+It’s best to make an average monthly budget and compare which cities are realistically affordable for you, based on your income and/or support from family. If you’re interested in finding a part-time job, check my post: [Working as an International Student in France](https://mag-skubisz.github.io/posts/working-as-an-international-student-in-france/). Just make sure to maintain a balance between work and study. Sometimes it might even be better to choose a smaller city so you have more time for studying and a little less work.
 
 ## City Size & Atmosphere – Big City or Small Town?
 
